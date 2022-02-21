@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @philip-fitzsimons-oxb
+- 👀 I’m interested in driving change
+- 🌱 I’m currently learning rust
+- 💞️ I’m looking to collaborate on best practice
+- 📫 How to reach me twitter
